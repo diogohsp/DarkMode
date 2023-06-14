@@ -48,7 +48,7 @@
     display: none;
   }
   
-  .trono {
+  .lobo {
     background-image: var(--trono-img);
     background-size: cover;
     width: 200px;
